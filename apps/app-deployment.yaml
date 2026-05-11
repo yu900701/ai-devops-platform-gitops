@@ -20,7 +20,7 @@ spec:
       containers:
         - name: ai-devops-container
 
-          image: ghcr.io/yu900701/ai-devops-app:dd0d9b2
+          image: ghcr.io/yu900701/ai-devops-app:16fbc16
 
           imagePullPolicy: Always
 
